@@ -57,8 +57,6 @@ In our design both ends of the paper are at the same side making it easy to plug
 
 Corchea works as a hardware platform to pass a sample through a biosensor. It can sample continuously and detect changes on the environment. You can analyze the response or output usig [Corchea_DiscAnalyze_Pulse](https://github.com/Open-Hardware-Leaders/Corchea/blob/master/Software/DiscAnalyze/Corchea_DiscAnalyze_Pulse.ipynb)
 
-<img src="https://github.com/Open-Hardware-Leaders/Corchea/blob/master/images/Corchea_PulseInduction.png" height="300" />
-
 ## Lets work together!
 
 Here is a list of possible tasks you can help with. Remember that you can help in things that are not in this list, just contact us and tell us how you want to cooperate or what do you want to do.
@@ -71,7 +69,7 @@ Here is a list of possible tasks you can help with. Remember that you can help i
 **Software:**
 - Creating/optimizing analysis code
 - Computer vision,recognition and segmentation of objects
-- Deep learning CNN, RNN
+- Deep learning CNN, RNN, GCN
 - Tensorflow, Keras implementations
 
 **Biology:**
